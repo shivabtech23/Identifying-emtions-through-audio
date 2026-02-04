@@ -126,5 +126,6 @@ These help explain why the model behaves the way it does, not just what it predi
 Shiv Arora
 B.Tech (Hons.) Computer Science – Cybersecurity
 AI / ML & Security Projects
+
 	•	LinkedIn: https://www.linkedin.com/in/shivarora1/
 	•	GitHub: https://github.com/shivabtech23
